@@ -1,6 +1,6 @@
 # Three.js
 
-Just playing around with Three.js
+Just playing around with Three.js following [fireship.io](https://www.youtube.com/watch?v=Q7AOvWpIVHU&t=28s) tutorial
 
 If you want to run it:
 
